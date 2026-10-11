@@ -4,7 +4,7 @@ Date: 11 October 2026
 Time: (start to end)
 Place: Google Meet
 Host: Masoma Rezaie (Product Owner)
-Recording: recordings/sprint-1/
+Recording: [Google Drive](https://drive.google.com/file/d/1cn9f6YyrTc29F_2rP2BYsV4NBbP3g1Sr/view?usp=sharing)
 
 ## Attendees
 
