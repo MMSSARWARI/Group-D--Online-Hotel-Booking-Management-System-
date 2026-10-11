@@ -43,7 +43,7 @@ The team created the GitHub repository for the project. Each member chose one ro
 | Task | Owner | Due |
 |---|---|---|
 | Set up GitHub repository folders | Mohammad Mahdi Sarwari | 11 Oct |
-| Upload kickoff recording | | 12 Oct |
+| Upload kickoff recording | Mohammad Mahdi Sarwari | 12 Oct |
 | Create Trello board | Razia Alizada | 12 Oct |
 | Write first draft of user stories | Masoma Rezaie and Razia Alizada | 13 Oct |
 
