@@ -53,4 +53,4 @@ Backend: Java
 
 ## Tools
 
-GitHub, Trello, Google Meet, draw.io, Google Docs.
+GitHub, Trello, Google Meet, Zoom, draw.io, Google Docs.
