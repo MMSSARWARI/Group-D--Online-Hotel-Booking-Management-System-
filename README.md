@@ -12,15 +12,14 @@ Software Engineering Scrum Project.
 
 | Role | Member Name | Responsibilities |
 |---|---|---|
-| Product Owner | (name) | Maintains the product backlog, hosts sprint planning and review meetings, records minutes |
-| Scrum Master | (name) | Facilitates daily stand-ups, manages sprint timing, helps write user stories |
-| Developer 1 | (name) | Requirements, system modeling, development |
-| Developer 2 | (name) | Development, testing documentation |
-| Developer 3 | (name) | Development, UML diagrams |
+| Product Owner | Masoma Rezaie | Maintains the product backlog, hosts sprint planning and review meetings, records minutes |
+| Scrum Master | Razia Alizada | Facilitates daily stand-ups, manages sprint timing, helps write user stories |
+| Developer 1 | Mohammad Mahdi Sarwari | Requirements, system modeling, development |
+| Developer 2 | Raufa Rauf | Development, testing documentation,UML diagrams |
 
 ## 3. Scrum Framework
 
-Total sprints: 3 (plus Sprint 0 for kickoff and setup)
+Total sprints: 6 
 
 | Sprint | Dates | Delivery |
 |---|---|---|
