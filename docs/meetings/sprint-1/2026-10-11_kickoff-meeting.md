@@ -1,0 +1,47 @@
+# Kickoff Meeting (Sprint 1)
+
+Date: 11 October 2026
+Time: (start to end)
+Place: Google Meet
+Host: Masoma Rezaie (Product Owner)
+Recording: recordings/sprint-1/
+
+## Attendees
+
+| Name | Role | Present |
+|---|---|---|
+| Masoma Rezaie | Product Owner | Yes |
+| Razia Alizada | Scrum Master | Yes |
+| Mohammad Mahdi Sarwari | Developer 1 | Yes |
+| Raufa Rauf | Developer 2 | Yes |
+
+## Agenda
+
+1. Introduction of the project and the assignment
+2. Choice of roles
+3. Sprint plan and deadlines
+4. Tools (GitHub, Trello, Google Meet, draw.io)
+5. Next steps
+
+## Minutes
+
+(what was discussed)
+
+## Decisions
+
+| Decision | Responsible |
+|---|---|
+| The project is an Online Hotel Booking Management System | Whole team |
+| The project has 6 sprints, from 11 October to 1 November 2026 | Whole team |
+| Roles: Product Owner Masoma Rezaie, Scrum Master Razia Alizada, Developers Mohammad Mahdi Sarwari and Raufa Rauf | Whole team |
+
+## Action Items
+
+| Task | Owner | Due |
+|---|---|---|
+| Set up GitHub repository folders | Mohammad Mahdi Sarwari | 11 Oct |
+| Upload kickoff recording | | 12 Oct |
+| Create Trello board | Razia Alizada | 12 Oct |
+| Write first draft of user stories | Masoma Rezaie and Razia Alizada | 13 Oct |
+
+Next meeting: daily stand-up, 12 October 2026
