@@ -30,11 +30,13 @@ Total sprints: 6
 | Sprint 5 | 25 to 28 Oct 2026 | Payment, admin room management, booking history |
 | Sprint 6 | 29 Oct to 1 Nov 2026 | Reports, testing, final review and retrospective, final documentation |
 
-Meetings: daily stand-up, sprint planning, sprint review and retrospective.
+Meetings: at least two team meetings every week, plus sprint planning at the start and sprint review and retrospective at the end of each sprint.
 
 ## 4. Tech Stack
 
-(to be decided by the team)
+Frontend: HTML and CSS
+
+Backend: Java
 
 ## 5. Repository Structure
 
