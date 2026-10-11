@@ -47,4 +47,4 @@ The team created the GitHub repository for the project. Each member chose one ro
 | Create Trello board | Razia Alizada | 12 Oct |
 | Write first draft of user stories | Masoma Rezaie and Razia Alizada | 13 Oct |
 
-Next meeting: Wednesday, 14 October 2026
+Next meeting: Tuesday, 13 October 2026
